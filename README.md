@@ -1,5 +1,5 @@
-# Clustering Lab – Fisher Iris Dataset
-Clustering Lab – Fisher Iris Dataset
+# ML Clustering – Fisher Iris Dataset
+Clustering – Fisher Iris Dataset
 
 This repository contains my work for CS-345/M45 Lab Class 2, focused on applying unsupervised learning methods to the classic Fisher Iris dataset. The exercises walk through k-means, Gaussian Mixture Models (GMMs), visualisation of soft and hard cluster assignments, and clustering an unknown dataset.
 
